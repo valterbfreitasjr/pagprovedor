@@ -1,0 +1,27 @@
+/* 
+Arquivo: estilo.css 
+*/
+nav{
+	min-height: 80px;
+}
+
+td img{
+	width: 25px;
+	height: 25px;
+}
+
+
+/* ID */
+#quem-somos{
+	min-height: 600px;
+	background-image: url('../img/computer-768608_1280.jpg');
+	background-repeat: no-repeat;
+	background-color: #000;
+	background-size: cover;
+}
+
+/* Classes */
+.sobreposicao{
+	min-height: 600px;
+	background-color:rgba(0, 0, 0, 0.7);
+}
